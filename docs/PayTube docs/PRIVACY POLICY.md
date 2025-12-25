@@ -1,6 +1,6 @@
 # PRIVACY POLICY
 
-This privacy policy (“Privacy Policy” or “Policy”) is applicable to us, Zktube Labs Pty Ltd. (hereinafter, “zkTube”, "we", "us" or "our") and to all users ("you", "your" or "Users") of the Paytube Wallet (“Wallet”), website, application or web service owned or operated by zkTube (collectively the “App” or “website”). 
+This privacy policy (“Privacy Policy” or “Policy”) is applicable to us, Zktube Labs Pty Ltd. (hereinafter, “zkTube”, "we", "us" or "our") and to all users ("you", "your" or "Users") of the Paytube Wallet (“Wallet”), website, application or web service owned or operated by zkTube (collectively the “App” or “website”).
 
 ## A.Introduction
 
@@ -20,9 +20,9 @@ The purpose of this Privacy Policy is to set out in an accountable and transpare
 
 2.When you use certain functions of PayTube, we may specifically notify you to request more personal information.
 
-3.After linking your Wallet to any Decentralised Application (“Dapp”) developed by third parties, your personal information will be collected and held by the Dapp. Accordingly, when you link your Wallet to any Dapp, you are liable to check the terms of service and privacy policy of the relevant Dapp, and accept them before linking your Wallet. 
+3.After linking your Wallet to any Decentralised Application (“Dapp”) developed by third parties, your personal information will be collected and held by the Dapp. Accordingly, when you link your Wallet to any Dapp, you are liable to check the terms of service and privacy policy of the relevant Dapp, and accept them before linking your Wallet.
 
-4.Your mobile device information and your operation records on PayTube whenever you use the Wallet. 
+4.Your mobile device information and your operation records on PayTube whenever you use the Wallet.
 
 ## D.Purpose of Personal Information collection
 
@@ -82,22 +82,21 @@ d.to any person who we reasonably believe may apply to a court or other competen
 
 12.Information that we collect may be transferred to the following countries which do not have data protection laws equivalent to those in force in the European Economic Area: Australia and Canada.
 
-13.Your agreement with zkTube’s Terms of Use constitutes your consent to the collection and use of Personal Information as described in this Privacy Policy. zkTube reserves the right to use and disclose Personal Information without your knowledge or consent as permitted by applicable law.
+13.Your agreement with zkTube’s Terms of Use constitutes your consent to the collection and use of Personal Information as described in this Privacy Policy. zkTube reserves the right to use and disclose Personal Information without your knowledge or consent as permitted by applicable law.
 
 14.You hereby agree and accept to transfer of Personal Information as described in this Policy.
 
 ## F.Disclosure of Personal Information
 
-1.We use the Personal Information for the purposes indicated at the time you provide us with such information, and/or otherwise for the purposes set out in this Privacy Policy and/or as otherwise permitted by law. We may make available the Personal Information that you provide to us to our affiliates, agents, representatives, service providers and contractors for these purposes. We also reserve the right to disclose Personal information that zkTube believe, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability or harm, to investigate and respond to third-party claims or allegations, to respond to a court order or official requests, to protect security or integrity of zkTube and to protect the rights, property or safety of zkTube, our uses or others.
+1.We use the Personal Information for the purposes indicated at the time you provide us with such information, and/or otherwise for the purposes set out in this Privacy Policy and/or as otherwise permitted by law. We may make available the Personal Information that you provide to us to our affiliates, agents, representatives, service providers and contractors for these purposes. We also reserve the right to disclose Personal information that zkTube believe, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability or harm, to investigate and respond to third-party claims or allegations, to respond to a court order or official requests, to protect security or integrity of zkTube and to protect the rights, property or safety of zkTube, our uses or others.
 
-2.Financial transactions relating to our website and services are handled by our payment services providers, [identify PSPs]. We will share transaction data with our payment services providers only to the extent necessary for the purposes of [processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds]. You can find information about the payment services providers' privacy policies and practices at [URLs]. 
+2.Financial transactions relating to our website and services are handled by our payment services providers, \[identify PSPs]. We will share transaction data with our payment services providers only to the extent necessary for the purposes of \[processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds]. You can find information about the payment services providers' privacy policies and practices at \[URLs].
 
 3.If you request it in writing, we may share your Personal Information with your nominated advisers. Except where disclosure of your Personal Information is required by law or requested by you, we will generally require any third party which receives or has access to Personal Information to protect such Personal Information and to use it only to carry out the services they are performing for you or for us, unless otherwise required or permitted by law. We will ensure that any such third party is aware of our obligations under this Privacy Policy and we will take reasonable steps to ensure that contracts we enter with such third parties binds them to terms no less protective of any Personal Information disclosed to them than the obligations we undertake to you under this Privacy Policy or which are imposed on us under applicable data protection laws.
 
 4.In the event that zkTube is involved in a merger, acquisition, sale, bankruptcy, insolvency, reorganization, receivership, assignment or the application of laws or change of control, there may be a disclosure of your information to another entity related to such an event.
 
 5.You acknowledge that the personal information that you submit for publication through our website or services may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others.
-
 
 ## G.Access and Changing of Personal Information
 
@@ -113,29 +112,29 @@ We will hold your Personal Information only for as long as it is necessary for u
 
 We will retain your personal data as follows:
 
-(a)	Account Transaction data will be retained for a minimum period of 3 months following the date of the transaction, and for a maximum period of 5 years following that date;
+(a) Account Transaction data will be retained for a minimum period of 3 months following the date of the transaction, and for a maximum period of 5 years following that date;
 
-(b)	Usage data will be retained for 5 years following the date of collection.
+(b) Usage data will be retained for 5 years following the date of collection.
 
 ## J.Rights of Users
 
 Your principal rights under data protection law are:
 
-(a)	the right to access - you can ask for copies of your personal data;
+(a) the right to access - you can ask for copies of your personal data;
 
-(b)	the right to rectification - you can ask us to rectify inaccurate personal data and to complete incomplete personal data;
+(b) the right to rectification - you can ask us to rectify inaccurate personal data and to complete incomplete personal data;
 
-(c)	the right to erasure - you can ask us to erase your personal data;
+(c) the right to erasure - you can ask us to erase your personal data;
 
-(d)	the right to restrict processing - you can ask us to restrict the processing of your personal data;
+(d) the right to restrict processing - you can ask us to restrict the processing of your personal data;
 
-(e)	the right to object to processing - you can object to the processing of your personal data;
+(e) the right to object to processing - you can object to the processing of your personal data;
 
-(f)	the right to data portability - you can ask that we transfer your personal data to another organisation or to you;
+(f) the right to data portability - you can ask that we transfer your personal data to another organisation or to you;
 
-(g)	the right to complain to a supervisory authority - you can complain about our processing of your personal data; and
+(g) the right to complain to a supervisory authority - you can complain about our processing of your personal data; and
 
-(h)	the right to withdraw consent - to the extent that the legal basis of our processing of your personal data is consent, you can withdraw that consent.
+(h) the right to withdraw consent - to the extent that the legal basis of our processing of your personal data is consent, you can withdraw that consent.
 
 ## K.Users Under Age of 13
 
@@ -145,10 +144,9 @@ zkTube does not knowingly collect or store any personal information about childr
 
 There may be links from our website to other websites and resources provided by third parties. This Privacy Policy applies only to our website. Accessing those third-party sites or sources requires you to leave our website. We do not control those third-party websites or any of the content contained therein and you agree that we are in no way responsible or liable for any of those third party websites, including, without limitation, their content, policies, failures, promotions, products, services or actions and/or any damages, losses, failures or problems caused by, related to or arising from those websites. We encourage you to review all policies, rules, terms and regulations, including the privacy policies, of each website that you visit.
 
-
 ## M.Cookies
 
-We use cookies to protect and improve the services provided through our App, increase the ease of access to users, show you relevant content, monitor and analyse the performance, operation, and effectiveness of the App, and to serve you tailored advertising. 
+We use cookies to protect and improve the services provided through our App, increase the ease of access to users, show you relevant content, monitor and analyse the performance, operation, and effectiveness of the App, and to serve you tailored advertising.&#x20;
 
 A cookie is a small data file that is transferred to your device). For example, a cookie could allow us to recognize your browser, while another could store your preferences. Cookies also allow ease of access, by logging you in without having to type your login name each time (only your password is needed); we may also use such cookies to display any advertisement(s) to you while you are on the website or to send you offers aligning with your interests.
 
